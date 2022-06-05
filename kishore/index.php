@@ -73,7 +73,7 @@ if(isset($_POST['login']))
     
   </div>
   <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
+    <label for="exampleInputPassword1">your Password</label>
     <input type="password" name="pwd" class="form-control" id="exampleInputPassword1" required>
   </div>
   
