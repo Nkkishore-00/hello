@@ -68,7 +68,7 @@ if(isset($_POST['login']))
  <?php }?>
     <form method="post">
   <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
+    <label for="exampleInputEmail1">Email give your email</label>
     <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
     
   </div>
